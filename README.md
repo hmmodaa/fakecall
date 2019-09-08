@@ -1,4 +1,4 @@
-# fakecall [CLI Version]
+# fakecall [CLI AversioN]
 # Note : Just For Fun
-# How To Run?
-# Use Ur Brain!
+# How To Run?CD
+# Use Ur Brain!gov
